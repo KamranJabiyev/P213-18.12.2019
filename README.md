@@ -6,3 +6,7 @@
 https://www.tutorialsteacher.com/csharp/csharp-interface
 
 https://www.tutorialsteacher.com/csharp/csharp-collection
+
+Ev tapshirigi:
+
+Dersde yazdiqlarimi yoxlamaq ve oxumaq !!!
